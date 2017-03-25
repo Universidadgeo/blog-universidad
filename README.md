@@ -12,3 +12,5 @@ es un proyecto dedicado al crecimiento de comunidad universidad a travéz de un 
 [roadmap]
 
 [licencia]
+
+[agradecimientos]
